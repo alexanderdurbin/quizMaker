@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Question Type="sample">
+    <File>C:\Users\Alex\Desktop\karen-smith-fist.jpg</File>
+    <Answer>sample Ans</Answer>
+  </Question>
+  <Question Type="ratio, fractions, algebra">
+    <File>C:\Users\Alex\Dropbox\Programming\Testing materials ACT-SAT-Other\ACT SAT pracitce tests\Math Questions\72c001.png</File>
+    <Answer>D</Answer>
+  </Question>
+  <Question Type="mean, median, mode, algebra">
+    <File>C:\Users\Alex\Dropbox\Programming\Testing materials ACT-SAT-Other\ACT SAT pracitce tests\Math Questions\72c002.png</File>
+    <Answer>H</Answer>
+  </Question>
+  <Question Type="fractions, algebra, ratio">
+    <File>C:\Users\Alex\Dropbox\Programming\Testing materials ACT-SAT-Other\ACT SAT pracitce tests\Math Questions\72c003.png</File>
+    <Answer>E</Answer>
+  </Question>
+</Root>

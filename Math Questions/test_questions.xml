@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.6.4
+- https://www.phpmyadmin.net
+-
+- Host: mysql.eclectic-gamer.com
+- Generation Time: Feb 21, 2017 at 09:46 AM
+- Server version: 5.6.25-log
+- PHP Version: 7.1.0
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="alex_does_computers" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="test_questions">
+                CREATE TABLE `test_questions` (
+                  `ID` text NOT NULL,
+                  `tags` text NOT NULL,
+                  `answer` varchar(10) NOT NULL
+                ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'alex_does_computers'
+    -->
+    <database name="alex_does_computers">
+        <!-- Table test_questions -->
+        <table name="test_questions">
+            <column name="ID">72c001</column>
+            <column name="tags">probability, fractions</column>
+            <column name="answer">D</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c002</column>
+            <column name="tags">mean, median, mode, average, algebra</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c003</column>
+            <column name="tags">scale, proportion, fraction</column>
+            <column name="answer">E</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c004</column>
+            <column name="tags">functions, exponents, computation</column>
+            <column name="answer">F</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c005</column>
+            <column name="tags">algebra, functions, exponents, computation</column>
+            <column name="answer">E</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c006</column>
+            <column name="tags">functions, algebra, percentage, word problem</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c007</column>
+            <column name="tags">sequence, geometric, algebra</column>
+            <column name="answer">E</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c008</column>
+            <column name="tags">data, algebra</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c009</column>
+            <column name="tags">volume, geometry</column>
+            <column name="answer">A</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c010</column>
+            <column name="tags">data, median, mean, mode</column>
+            <column name="answer">K</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c011</column>
+            <column name="tags">data, linear, function, algebra</column>
+            <column name="answer">C</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c012</column>
+            <column name="tags">geometry, area, perimeter</column>
+            <column name="answer">K</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c013</column>
+            <column name="tags">geometry, angles, triangles</column>
+            <column name="answer">B</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c014</column>
+            <column name="tags">graph, data, angles, proportion, fractions</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c015</column>
+            <column name="tags">word problem, system of equations, algebra</column>
+            <column name="answer">B</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c016</column>
+            <column name="tags">distance, rate, time, acceleration, units, measurement, algebra</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c017</column>
+            <column name="tags">geometry, angles, word problem</column>
+            <column name="answer">D</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c018</column>
+            <column name="tags">fractions, numbers, algebra</column>
+            <column name="answer">F</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c019</column>
+            <column name="tags">numbers, algebra, scientific notation, exponents</column>
+            <column name="answer">D</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c020</column>
+            <column name="tags">geometry, angles, trapezoid, parallel</column>
+            <column name="answer">F</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c021</column>
+            <column name="tags">word problem, percentage, proportion</column>
+            <column name="answer">B</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c022</column>
+            <column name="tags">functions, computation, algebra, exponents</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c023</column>
+            <column name="tags">algebra, order of operations, simplify, simplification, functions</column>
+            <column name="answer">A</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c024</column>
+            <column name="tags">word problem, cost, profit, modeling, parabola, algebra</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c025</column>
+            <column name="tags">word problem, percentage, proportion, fractions, data</column>
+            <column name="answer">B</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c026</column>
+            <column name="tags">geometry, angles, algebra, complementary, supplementary</column>
+            <column name="answer">G</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c027</column>
+            <column name="tags">geometry, triangles, ratio, pythagorean</column>
+            <column name="answer">E</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c028</column>
+            <column name="tags">parabola, algebra, graph, vertex, solutions</column>
+            <column name="answer">H</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c029</column>
+            <column name="tags">imaginary, algebra, complex</column>
+            <column name="answer">C</column>
+        </table>
+        <table name="test_questions">
+            <column name="ID">72c030</column>
+            <column name="tags">geometry, angles, trigonometry, functions, triangles</column>
+            <column name="answer">G</column>
+        </table>
+    </database>
+</pma_xml_export>
